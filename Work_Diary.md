@@ -36,32 +36,61 @@
 
 ### Σάββατο 5 Μαρτίου 2022
 Συζητήσαμε και καταγράψαμε τι θα κάνει ο αλγόριθμος του πρότζεκτ.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/164451495-561714aa-2f93-438c-b879-9d9fc799fbdd.jpg" />
+</p>
 
 ### Σάββατο 12 Μαρτίου 2022
 Ήρθε ο εξοπλισμός μας και ασχοληθήκαμε με το κομμάτι των φωτοβολταϊκών κυκλωμάτων.
 Οι κολλήσεις στα κυκλώματα έγιναν από την προπονήτριά μας, λόγω των υψηλών θερμοκρασιών που χρειάζονται.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/164450330-2ec5a3d8-99bd-42ab-9c28-f20dcbeaba5a.jpg" />
+</p>
+
 ### Σάββατο 19 Μαρτίου 2022
 Ασχοληθήκαμε με την συνδεσμολογία των αισθητήρων στο Arduino.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/164450757-8bb8d46c-bc0b-4fca-b1d8-0de107e523e1.jpg" />
+<img src="https://user-images.githubusercontent.com/28193137/164451119-f740650c-8c36-4745-b686-988c7820276a.jpg" />
+</p>
 
 ### Σάββατο 26 Μαρτίου 2022
 Προγραμματίσαμε το Arduino.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/164448799-7a54d560-d62e-40d6-9083-649db7d4c5f9.jpg" />
+</p>
+
 ### Σάββατο 2 Απριλίου 2022
 Συνεχίσαμε τον προγραμματισμό.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/164449049-f5c4c9fb-f0eb-4809-966c-e90edbf51253.jpg" />
+<img src="https://user-images.githubusercontent.com/28193137/164449062-98956ce6-098f-4a44-a6db-7d6f3162820c.jpg" />
+<img src="https://user-images.githubusercontent.com/28193137/164449075-3268e368-8623-45c1-8329-db6b7cefde1c.jpg" />
+<img src="https://user-images.githubusercontent.com/28193137/164449034-c8c50bed-4311-46ac-9c22-46993973817b.jpg" />
+</p>
+
 ### Σάββατο 9 Απριλίου 2022
 Κατασκευάσαμε την εφαρμογή του κινητού, μέσω του MIT App Inventor.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/164448238-007fbe54-a151-4b60-b776-84738817c534.jpg" />
+<img src="https://user-images.githubusercontent.com/28193137/164448216-1a98a34c-9144-48a9-81d4-c72b63ebabec.jpg" />
+<img src="https://user-images.githubusercontent.com/28193137/164448184-1d4116e1-df70-4145-8578-1af1a09ec348.jpg" />
+</p>
 
 ### Σάββατο 16 Απριλίου 2022
 Συζητήσαμε και καταγράψαμε τις ιδέες και τις προτάσεις που είχαμε για το βίντεο του διαγωνισμού.
 
 ### Σάββατο 30 Απριλίου 2022
 
-### Σάββατο 7 Μαίου 2022
+### Σάββατο 7 Μαΐου 2022
 
-### Σάββατο 14 Μαίου 2022
+### Σάββατο 14 Μαΐου 2022
 
-### Σάββατο 21 Μαίου 2022
+### Σάββατο 21 Μαΐου 2022
 
-### Σάββατο 28 Μαίου 2022
+### Σάββατο 28 Μαΐου 2022
