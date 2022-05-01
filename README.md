@@ -1,6 +1,12 @@
 # forest-protection
 This project is the participation of the Stamatiou Foundation - CoderDojo Rhodes, in the 4th Panhellenic Open Technologies Competition in the education of the ELLAK group, in the category of Secondary schools.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/166155309-901de549-d2af-4ab7-9f33-b0cdb9911549.png" />
+</p>
+
+Το logo μας δημιουργήθηκε μέσω του, open source εργαλείου, [Canva](https://www.canva.com/).
+
 ## Περιγραφή στα Ελληνικά
 
 ### Μελέτη υπάρχουσας κατάστασης - Ορισμός προβλήματος και ανάγκης
