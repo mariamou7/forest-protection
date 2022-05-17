@@ -1,7 +1,14 @@
+/*
+  Forest Protection final code
+  Author: Environmental Defenders team
+*/
+
+//Initializations
 int buzzer = 4;
 int smokePin = A0;
 int tempPin = A1;
 
+//The setup function runs once when you press reset or power the board
 void setup() {
   pinMode(buzzer, OUTPUT);
   pinMode(smokePin, INPUT);
@@ -10,6 +17,7 @@ void setup() {
   Serial.begin(9600);
 }
 
+//The loop function runs over and over again forever
 void loop() {
   int tempValue = analogRead(tempPin); 
   float voltage = tempValue*(5.0/1024.0);
