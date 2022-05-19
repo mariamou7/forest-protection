@@ -7,12 +7,14 @@
 int buzzer = 4;
 int smokePin = A0;
 int tempPin = A1;
+int voltPin = A2;
 
 //The setup function runs once when you press reset or power the board
 void setup() {
   pinMode(buzzer, OUTPUT);
   pinMode(smokePin, INPUT);
   pinMode(tempPin, INPUT);
+  pinMode(voltPin, INPUT);
   
   Serial.begin(9600);
 }
@@ -59,4 +61,13 @@ void loop() {
   }
   
   delay(5000);
+  
+  int volts = analogRead(voltPin);
+  Serial.print("Volts: ");
+  Serial.println(volts);
+  
+  float v12 = (volts*12.0)/1023;
+  Serial.print("V12: ");
+  Serial.println(v12);
+  Serial.println("__________________________________________");
 }
