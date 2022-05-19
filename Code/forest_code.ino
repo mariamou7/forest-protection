@@ -54,6 +54,8 @@ void loop() {
     delay(1000);
     noTone(buzzer);
     delay(100);
+    
+    Serial.println("Alarm!!!");
   }
   else
   {
