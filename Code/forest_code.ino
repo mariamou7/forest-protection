@@ -3,6 +3,8 @@
   Author: Environmental Defenders team
 */
 
+#include <ESP8266WiFi.h>
+
 //Initializations
 //constants won't change
 int buzzer = 4; //initialize digital pin 4 as "buzzer"
@@ -16,6 +18,18 @@ void setup() {
   pinMode(smokePin, INPUT); //initialize "smokePin" as an input
   pinMode(tempPin, INPUT); //initialize "tempPin" as an input
   pinMode(voltPin, INPUT); //initialize "voltPin" as an input
+  
+  //Wi-Fi connenction
+  WiFi.begin("network-name", "pass-to-network");
+  Serial.print("Connecting");
+  while (WiFi.status() != WL_CONNECTED)
+  {
+    delay(500);
+    Serial.print(".");
+  }
+  Serial.println();
+  Serial.print("Connected, IP address: ");
+  Serial.println(WiFi.localIP());
   
   //We'll use the serial monitor to view sensors' output
   Serial.begin(9600);
