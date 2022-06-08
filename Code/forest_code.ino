@@ -20,7 +20,7 @@ void setup() {
   pinMode(voltPin, INPUT); //initialize "voltPin" as an input
   
   //Wi-Fi connenction
-  WiFi.begin("network-name", "pass-to-network");
+  WiFi.begin("Android-Maria", "123456"); //Network name, network password
   Serial.print("Connecting");
   while (WiFi.status() != WL_CONNECTED)
   {
